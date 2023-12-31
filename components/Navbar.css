@@ -1,0 +1,27 @@
+.navbar-container {
+    background-color: rgb(184, 184, 184);
+}
+
+a {
+    text-decoration: none;
+}
+
+.appname{
+    font-family: 'lobster';
+    color: black;
+    font-size: 1.8rem;
+}
+
+.appname:hover{
+    color: white;
+}
+  
+
+.menu-item{
+    color: black;
+}
+
+.menu-item:hover{
+    color: white;
+}
+  
